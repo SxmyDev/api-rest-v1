@@ -1,0 +1,5 @@
+com\sam\demo\repositories\IUserRepository.class
+com\sam\demo\DemoApplication.class
+com\sam\demo\controllers\UserController.class
+com\sam\demo\services\UserService.class
+com\sam\demo\models\UserModel.class
